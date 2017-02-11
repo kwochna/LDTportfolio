@@ -10,7 +10,7 @@ Welcome to my academic portfolio, where you will be able to view samples of work
 
 
 ### Compentency Table
-[![Competency Table]({{site.url}}/docs/CompetencyTable.png)]({{site.url}}/docs/CompetencyTable.png)
+[![Competency Table]({{site.url}}/LDTportfolio/docs/CompetencyTable.png)]({{site.url}}/docs/CompetencyTable.png)
 <small style='text-align:center; width:100%'>Click to enlarge.</small>
 <br>
 <br>
