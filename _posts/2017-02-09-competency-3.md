@@ -21,8 +21,8 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [Group Design Project Final Report]({{site.url}}/docs/Wochna_EDCI572_FinalGroupReport.pdf)| Using Piktochart for Presentations: A Formal Analysis of the Design, Implementation, and Evaluation| EDCI 57200: Learning Systems Design |
-| [Poster]({{site.url}}/docs/Wochna_EDCI513_HoroscopeRapidPrototyping.pdf)| Instructional Design Horoscope for Rapid Prototyping | EDCI 51300: Foundations of Learning Design & Technology |
+| [Group Design Project Final Report]({{site.url}}/LDTportfolio/docs/Wochna_EDCI572_FinalGroupReport.pdf)| Using Piktochart for Presentations: A Formal Analysis of the Design, Implementation, and Evaluation| EDCI 57200: Learning Systems Design |
+| [Poster]({{site.url}}/LDTportfolio/docs/Wochna_EDCI513_HoroscopeRapidPrototyping.pdf)| Instructional Design Horoscope for Rapid Prototyping | EDCI 51300: Foundations of Learning Design & Technology |
 
 -----
 <p></p>

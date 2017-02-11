@@ -21,9 +21,9 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [Performance Analysis]({{site.url}}/docs/Wochna_EDCI528_PerformanceAnalysis.pdf)| Performance Analysis: Smart Hill Community College | EDCI 52800: Human Performance Technology |
-| [Solutions and Evaluation Plan]({{site.url}}/docs/Wochna_EDCI528_SolutionsEvaluation.pdf)| Solutions and Evaluation Plan: Smart Hill Community College | EDCI 52800: Human Performance Technology |
-| [Paper Prototype]({{site.url}}/docs/Wochna_EDCI569_PaperPrototype.pdf)| E-Learning Paper Prototype: Evidence-Based Writing for the Academic Literacy Skills Test | EDCI 56900: Introduction to E-Learning |
+| [Performance Analysis]({{site.url}}/LDTportfolio/docs/Wochna_EDCI528_PerformanceAnalysis.pdf)| Performance Analysis: Smart Hill Community College | EDCI 52800: Human Performance Technology |
+| [Solutions and Evaluation Plan]({{site.url}}/LDTportfolio/docs/Wochna_EDCI528_SolutionsEvaluation.pdf)| Solutions and Evaluation Plan: Smart Hill Community College | EDCI 52800: Human Performance Technology |
+| [Paper Prototype]({{site.url}}/LDTportfolio/docs/Wochna_EDCI569_PaperPrototype.pdf)| E-Learning Paper Prototype: Evidence-Based Writing for the Academic Literacy Skills Test | EDCI 56900: Introduction to E-Learning |
 
 
 -----

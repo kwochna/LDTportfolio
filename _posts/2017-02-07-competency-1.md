@@ -21,7 +21,7 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [Final Project]({{site.url}}/docs/Wochna_EDCI531_FinalPaper.pdf)| Situating Learning Through a Module on Critical Reflection | EDCI 53100: Learning Theory and Instructional Design |
+| [Final Project]({{site.url}}/LDTportfolio/docs/Wochna_EDCI531_FinalPaper.pdf)| Situating Learning Through a Module on Critical Reflection | EDCI 53100: Learning Theory and Instructional Design |
 
 -----
 <p></p>

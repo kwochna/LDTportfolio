@@ -21,7 +21,7 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [Reflection]({{site.url}}/docs/Wochna_EDCI672_ReflectionExpertise.pdf)| Reflection on Developing Expertise | EDCI 672: Advanced Practices in Learning Systems Design |
+| [Reflection]({{site.url}}/LDTportfolio/docs/Wochna_EDCI672_ReflectionExpertise.pdf)| Reflection on Developing Expertise | EDCI 672: Advanced Practices in Learning Systems Design |
 
 -----
 <p></p>

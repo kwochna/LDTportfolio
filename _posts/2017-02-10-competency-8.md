@@ -21,8 +21,8 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [Digital Prototype and Final Report]({{site.url}}/docs/Wochna_EDCI569_DigitalPrototypeFinalReport.pdf)| E-Learning Project Final Report: Evidence-Based Writing for the Academic Literacy Skills Test | EDCI 56900: Introduction to E-Learning|
-| [Evaluation Plan]({{site.url}}/docs/Wochna_EDCI577_EvaluationPlan.pdf)| Evaluation Proposal: Evaluating ProLiteracy’s *Using a Problem Posing Approach for Authentic Language Learning* Course | EDCI 57700: Strategic Evaluation and Assessment|
+| [Digital Prototype and Final Report]({{site.url}}/LDTportfolio/docs/Wochna_EDCI569_DigitalPrototypeFinalReport.pdf)| E-Learning Project Final Report: Evidence-Based Writing for the Academic Literacy Skills Test | EDCI 56900: Introduction to E-Learning|
+| [Evaluation Plan]({{site.url}}/LDTportfolio/docs/Wochna_EDCI577_EvaluationPlan.pdf)| Evaluation Proposal: Evaluating ProLiteracy’s *Using a Problem Posing Approach for Authentic Language Learning* Course | EDCI 57700: Strategic Evaluation and Assessment|
 
 -----
 <p></p>

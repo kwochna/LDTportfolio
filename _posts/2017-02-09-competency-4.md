@@ -21,8 +21,8 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [LDT Definition Postings]({{site.url}}/docs/Wochna_EDCI513_LDTDefinitions.pdf)| Definitions of Learning Design & Technology| EDCI 51300: Foundations of Learning Design & Technology |
-| [Game Evaluation]({{site.url}}/docs/Wochna_EDCI556_EdGameAnalysis.pdf)| Educational Game Analysis: Lure of the Labyrinth | EDCI 55600: Educational Video Game Design |
+| [LDT Definition Postings]({{site.url}}/LDTportfolio/docs/Wochna_EDCI513_LDTDefinitions.pdf)| Definitions of Learning Design & Technology| EDCI 51300: Foundations of Learning Design & Technology |
+| [Game Evaluation]({{site.url}}/LDTportfolio/docs/Wochna_EDCI556_EdGameAnalysis.pdf)| Educational Game Analysis: Lure of the Labyrinth | EDCI 55600: Educational Video Game Design |
 
 -----
 <p></p>

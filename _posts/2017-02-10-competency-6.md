@@ -21,7 +21,7 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [Group Presentation]({{site.url}}/docs/Wochna_EDCI660B_GroupPresentation.pptx)| Careers in E-Learning | EDCI 660B: Learning Design & Technology Seminar II|
+| [Group Presentation]({{site.url}/LDTportfolio}/docs/Wochna_EDCI660B_GroupPresentation.pptx)| Careers in E-Learning | EDCI 660B: Learning Design & Technology Seminar II|
 
 -----
 <p></p>

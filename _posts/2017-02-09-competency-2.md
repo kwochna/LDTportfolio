@@ -21,7 +21,7 @@ td, th {
 
 | Artifact       | Title      | Course  |
 | ---------------|------------| --------|
-| [Final Paper]({{site.url}}/docs/Wochna_EDCI513_FinalResearchPaper.pdf)| Informal Workplace Learning Through Online Communities of Practice | EDCI 51300: Foundations of Learning Design & Technology|
+| [Final Paper]({{site.url}}/LDTportfolio/docs/Wochna_EDCI513_FinalResearchPaper.pdf)| Informal Workplace Learning Through Online Communities of Practice | EDCI 51300: Foundations of Learning Design & Technology|
 
 -----
 <p></p>
